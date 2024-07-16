@@ -3,7 +3,8 @@
 <p>Foi também desenvolvido dois modelos de Inteligência Artificial, treinados com os dados retirados do banco de dados do banco WBK.</p>
 <p>O primeiro modelo foi desenvolvido com o algoritmo de <strong>Naive Bayes</strong>, com a intenção de prever o pagamento ou não de um crédito disponibilizado pelo banco aos clientes.
   <br>
-- Alcançou uma acurácia de 73%</p>
+- Alcançou a principio uma acurácia de 73%
+- Com sleção de atributos subiu para 76%</p>
 <p>O segundo modelo foi desenvolvido com o algoritmo de <strong>Random Forest</strong>, com a mesma intenção de previsão.
 <br>
   - Alcançou uma acurácia de 77%</p>
